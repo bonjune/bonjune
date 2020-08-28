@@ -39,7 +39,7 @@
 
 ### Experience
 
-* 123 days of traveling around the world
+* 123 days of traveling around the world 🌏
   - 17 countries in Asia and Europe
 
 ### How to reach me
