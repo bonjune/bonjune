@@ -37,6 +37,11 @@
   - Currently enthusiastic on [Rust](https://github.com/rust-lang/rust) and [F#](https://github.com/dotnet/fsharp)
   - Big fan of Static Type System, which will leads us to comprehensive and error-free software design!
 
+### Experience
+
+* 123 days of traveling around the world
+  - 17 countries in Asia and Europe
+
 ### How to reach me
 
 * e-mail: malloc099@gmail.com
