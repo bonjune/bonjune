@@ -10,7 +10,7 @@
   - Flexible software architecture with [Event Sourcing](https://martinfowler.com/eaaDev/EventSourcing.html): Event Sourcing works fancy with FP! 🧙‍♂️
   - Blazingly fast network  with [gRPC](https://grpc.io/)
 
-* [vitamin](https://github.com/bonjune/vitamin): HTML linter for Bootstrap project
+* [vitamin](https://github.com/bonjune/vitamin): HTML linter for Bootstrap project with VSCode Extension Support
  
 ### I worked on these projects! 👨‍💻
 
