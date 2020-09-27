@@ -5,12 +5,7 @@
 
 ### I am working on these projects! 👨‍💻
 
-* [Normio](https://github.com/2489D/Normio): Online exam/quiz management solution written in F#
-  - Currently adapting [Actor Model](https://fsharpforfunandprofit.com/posts/concurrency-actor-model/) for Concurrency
-  - Flexible software architecture with [Event Sourcing](https://martinfowler.com/eaaDev/EventSourcing.html): Event Sourcing works fancy with FP! 🧙‍♂️
-  - Blazingly fast network  with [gRPC](https://grpc.io/)
-
-* [vitamin](https://github.com/bonjune/vitamin): HTML linter for Bootstrap project with VSCode Extension Support
+* [Normio](https://github.com/2489D/Normio): Online exam/quiz management solution written in F# 🧙‍♂️
  
 ### I worked on these projects! 👨‍💻
 
