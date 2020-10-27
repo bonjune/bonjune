@@ -20,11 +20,3 @@
 * Concurrent and Parallel Software Design
 * Programming Languages
   - [F#](https://github.com/dotnet/fsharp)
-
-### Experience
-
-* 123 days of traveling around the world 🌏
-
-### How to reach me
-
-* e-mail: malloc099@gmail.com
