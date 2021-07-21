@@ -2,10 +2,6 @@
 
 * My name is 장봉준/Bongjun Jang
 * Currently studying as an undergraduate in School of Computing, KAIST 🔬
-
-### Doing 👨‍💻
-
-* [Normio](https://github.com/2489D/Normio): Online exam/quiz management solution written in F# 🧙‍♂️
  
 ### Done 👨‍💻
 
@@ -14,6 +10,7 @@
   - [Science in a Nutshell](https://github.com/icists/scinutsh)
   - [Summer Night Game Realtime Management System](https://github.com/icists/summer-night)
   - [Dr.Papper](https://github.com/bonjune/dr-papper): Paper Management Tool for Researchers
+* [Normio](https://github.com/2489D/Normio): Online exam/quiz management back-end solution written in F# 🧙‍♂️
 
 ### CS Interest
 
